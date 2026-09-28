@@ -351,7 +351,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # ---------------------------------------------------------
 st.markdown('<div class="section-card">', unsafe_allow_html=True)
 st.markdown('<div class="section-title">💳 Billing & Tenure</div>', unsafe_allow_html=True)
-st.markdown('<div class="section-caption">Enter the customer's tenure and billing values.</div>', unsafe_allow_html=True)
+st.markdown("<div class='section-caption'>Enter the customer's tenure and billing values.</div>", unsafe_allow_html=True)
 
 c1, c2, c3 = st.columns(3)
 
