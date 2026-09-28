@@ -512,27 +512,7 @@ with st.sidebar:
 # HERO
 # =========================================================
 
-st.markdown(
-    """
-    <div class="hero-box">
 
-        <div class="hero-badge">
-            MACHINE LEARNING • CUSTOMER RETENTION
-        </div>
-
-        <div class="hero-title">
-            📊 Customer Churn Prediction
-        </div>
-
-        <div class="hero-description">
-            Estimate whether a telecom customer is likely to churn
-            using demographic, service, contract and billing information.
-        </div>
-
-    </div>
-    """,
-    unsafe_allow_html=True
-)
 
 
 # =========================================================
